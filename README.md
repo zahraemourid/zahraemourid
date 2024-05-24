@@ -6,10 +6,12 @@ Programming Languages: Proficient in Python, JavaScript, Java, C, Kotlin, PHP, a
 Web Development: Skilled in HTML, CSS, JavaScript, and frameworks like Angular. I create dynamic, responsive, and user-friendly websites and applications.
 Backend Development: Experienced with Spring Boot for developing robust and scalable backend systems.
 Database Management: Knowledgeable in MySQL, Oracle PL/SQL, and NoSQL databases. I handle data storage, retrieval, and optimization effectively.
+
 🔭 Current Projects:
 
 Developing an app for project management, aimed at improving team collaboration and project tracking using Angular and Spring Boot.
 Collaborating with peers on innovative tech projects, focusing on enhancing user experience and functionality.
+
 🌱 Learning & Growth:
 I'm constantly learning and staying updated with the latest trends in technology. Currently, I'm diving deeper into:
 
