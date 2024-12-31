@@ -1,4 +1,4 @@
-👋 Hi there! I'm Zahrae Mourid, a passionate and dedicated student at the Higher School of Technology, where I'm pursuing my studies in technology and engineering. My academic journey has equipped me with a diverse set of skills and knowledge, and I'm excited to apply and expand my expertise through various projects and collaborations.
+👋 Hi there! I'm Zahrae Mourid, a passionate and dedicated student at the national School of artificial intelligence and digital, where I'm pursuing my studies in technology and engineering. My academic journey has equipped me with a diverse set of skills and knowledge, and I'm excited to apply and expand my expertise through various projects and collaborations.
 
 💻 What I Do:
 
