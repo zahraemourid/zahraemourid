@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zahrae</h1>
 <h3 align="center">A passionate software engineer</h3>
 
- 
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/zamourid" alt="zamourid's 42 stats" /></a>
 
 - 🌱 I’m currently learning **react and angular**
 
