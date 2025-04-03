@@ -5,7 +5,7 @@
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🎓 &nbsp;I'm currently studying Computer engineering at national school of artificial intelligence.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture and I’m currently learning **react and angular**.
 
 <h3 align="left">Connect with me:</h3>
