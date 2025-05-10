@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraemourid&label=Profile%20views&color=0e75b6&style=flat" alt="zahraemourid" /> </p>
 
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer engineering at national school of artificial intelligence.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture and I’m currently learning **react and angular**.
@@ -41,3 +40,4 @@
  
 </a>
 </p>
+ 
